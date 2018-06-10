@@ -1,0 +1,32 @@
+{
+    "address": {
+        "street_address": "Santa Maria 190",
+        "locality": "Lima 15074,",
+        "zipcode": "15074",
+        "country": "Peru"
+    },
+    "ratings": {
+        "Excellent": 43,
+        "Very good": 6,
+        "Average": 2,
+        "Poor": 0,
+        "Terrible": 0
+    },
+    "amenities": {
+        "Top amenities": "Room Service ,Bar/Lounge ,Free High Speed Internet (WiFi) ,Breakfast included ,Free Parking",
+        "Hotel Amenities": "Room Service ,Breakfast included ,Laundry Service ,Concierge ,Multilingual Staff ,Free Parking ,Airport Transportation ,Dry Cleaning",
+        "Room amenities": "Air Conditioning",
+        "Things to do": "Bar/Lounge"
+    },
+    "official_description": "",
+    "additional_info": {
+        "Price range": "$229 - $401 (Based on Average Rates for a Standard Room) ",
+        "Room types": "Non-Smoking Rooms, Accessible rooms"
+    },
+    "rating": 5.0,
+    "review_count": 69,
+    "name": "Atemporal",
+    "rank": "#18 of 237 Hotels in Lima",
+    "highlights": "Free Wifi,Free Parking,Breakfast included,Air Conditioning,Non-Smoking Hotel,Airport Transportation,Room Service",
+    "hotel_url": "https://www.tripadvisor.com/Hotel_Review-g294316-d10407480-Reviews-Atemporal-Lima_Lima_Region.html"
+}
